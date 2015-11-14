@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FontAwesome Demo</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Font Awesome cheats code -->
+    <string name="icon_facebook">&#xf082;</string>
+    <string name="icon_github">&#xf113;</string>
+    <string name="icon_chat">&#xf0e6;</string>
+    <string name="icon_camera">&#xf030;</string>
+    <string name="icon_android">&#xf17b;</string>
+    <string name="icon_birthday">&#xf1fd;</string>
+    <string name="icon_gift">&#xf06b;</string>
+    <string name="icon_youtube">&#xf167;</string>
+</resources>
